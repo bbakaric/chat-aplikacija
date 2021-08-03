@@ -1,3 +1,6 @@
+**Isječak iz uputa za izradu završnog rada:**
+Otvorite vlastitu aplikaciju u dva odvojena taba unutar svog web preglednika. Tako možete simulirati komunikaciju između dva korisnika unutar vašeg chat rooma.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
